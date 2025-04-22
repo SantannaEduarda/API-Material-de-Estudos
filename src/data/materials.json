@@ -1,0 +1,87 @@
+[
+    {
+      "title": "Roadmap Front-End",
+      "type": "Roadmap",
+      "url": "https://roadmap.sh/frontend",
+      "language": "Inglês",
+      "category": "Front-End"
+    },
+    {
+      "title": "CSS Tricks - Guia Flexbox",
+      "type": "Artigo",
+      "url": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/",
+      "language": "Inglês",
+      "category": "Front-End"
+    },
+    {
+      "title": "Roadmap Back-End",
+      "type": "Roadmap",
+      "url": "https://roadmap.sh/backend",
+      "language": "Inglês",
+      "category": "Back-End"
+    },
+    {
+      "title": "Guia de API REST",
+      "type": "Artigo",
+      "url": "https://restfulapi.net/",
+      "language": "Inglês",
+      "category": "Back-End"
+    },
+    {
+      "title": "Guia SQL - W3Schools",
+      "type": "Documentação",
+      "url": "https://www.w3schools.com/sql/",
+      "language": "Inglês",
+      "category": "Dados"
+    },
+    {
+      "title": "The Data Science Handbook",
+      "type": "PDF",
+      "url": "https://edisciplinas.usp.br/pluginfile.php/4314381/mod_resource/content/1/The-Data-Science-Handbook.pdf",
+      "language": "Inglês",
+      "category": "Dados"
+    },
+    {
+      "title": "Roadmap Full-Stack",
+      "type": "Roadmap",
+      "url": "https://roadmap.sh/full-stack",
+      "language": "Inglês",
+      "category": "Full-Stack"
+    },
+    {
+      "title": "Guia de Desenvolvimento Web",
+      "type": "Artigo",
+      "url": "https://developer.mozilla.org/pt-BR/docs/Learn",
+      "language": "Português",
+      "category": "Full-Stack"
+    },
+    {
+      "title": "OWASP Top 10",
+      "type": "Documentação",
+      "url": "https://owasp.org/www-project-top-ten/",
+      "language": "Inglês",
+      "category": "Segurança"
+    },
+    {
+      "title": "Guia de Segurança",
+      "type": "PDF",
+      "url": "https://exemplo.com/seguranca.pdf",
+      "language": "Português",
+      "category": "Segurança"
+    },
+    {
+      "title": "Git Handbook",
+      "type": "Documentação",
+      "url": "https://guides.github.com/introduction/git-handbook/",
+      "language": "Inglês",
+      "category": "Tecnologia Geral"
+    },
+    {
+      "title": "Clean Code em JavaScript",
+      "type": "Artigo",
+      "url": "https://medium.com/@periclesdeveloper/clean-code-em-javascript-parte-1-3050c1549e85",
+      "language": "Português",
+      "category": "Tecnologia Geral"
+    }
+  ]
+  

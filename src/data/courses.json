@@ -1,0 +1,57 @@
+[
+    {
+      "title": "Programadores do Amanhã",
+      "description": "A iniciativa oferece aulas de front-end, back-end, lógica de programação, banco de dados e soft skills, preparando os alunos para o mercado de tecnologia. Formação gratuita e completa em desenvolvimento full-stack.",
+      "language": "Português",
+      "category": "Full-stack"
+    },
+    {
+      "title": "Data Science Academy",
+      "description": "Plataforma com cursos gratuitos e pagos sobre ciência de dados, big data, machine learning e inteligência artificial. Os cursos combinam teoria e prática com foco em aplicações reais no mercado, sendo ideais para quem deseja atuar com análise de dados e tecnologia avançada.",
+      "language": "Português",
+      "category": "Dados"
+    },
+    {
+      "title": "Curso em vídeo",
+      "description": "Plataforma com diversos cursos gratuitos de programação e tecnologia. Ideal para iniciantes.",
+      "language": "Português",
+      "category": "Tecnologia Geral"
+    },
+    {
+      "title": "Rocketseat - Discover",
+      "description": "Trilha gratuita da Rocketseat voltada para iniciantes em programação. Ensina desde lógica básica até conceitos de front-end e back-end com HTML, CSS e JavaScript.",
+      "language": "Português",
+      "category": "Tecnologia Geral"
+    },
+    {
+      "title": "DIO - Digital Innovation One",
+      "description": "Plataforma que oferece bootcamps e cursos gratuitos em desenvolvimento de software, ciência de dados, cloud computing e muito mais. A DIO conecta alunos a grandes empresas do setor tecnológico e disponibiliza trilhas com foco em empregabilidade, projetos práticos e mentorias.",
+      "language": "Português",
+      "category": "Tecnologia Geral"
+    },
+    {
+      "title": "freeCodeCamp - Responsive Web Design",
+      "description": "Curso interativo que ensina os fundamentos do desenvolvimento web com HTML e CSS. Aborda práticas modernas de design responsivo, adaptando sites para diferentes dispositivos. Inclui projetos práticos e oferece certificado gratuito ao final.",
+      "language": "Inglês",
+      "category": "Front-end"
+    },
+    {
+      "title": "Fundação Bradesco - Segurança da Informação",
+      "description": "Curso gratuito que apresenta os principais conceitos e boas práticas de segurança digital. Aborda tópicos como tipos de ameaças virtuais, proteção de dados, uso seguro da internet e políticas de segurança da informação no ambiente corporativo.",
+      "language": "Português",
+      "category": "Segurança da Informação"
+    },
+    {
+      "title": "Kaggle - Python para Ciência de Dados",
+      "description": "Curso gratuito e prático que ensina os fundamentos da linguagem Python voltados para análise de dados e aprendizado de máquina. Inclui exercícios interativos com exemplos reais e foco em aplicações no mundo da ciência de dados.",
+      "language": "Inglês",
+      "category": "Dados"
+    },
+    {
+      "title": "AWS Cloud Practitioner Essentials",
+      "description": "Curso introdutório oficial da Amazon Web Services que apresenta os fundamentos da computação em nuvem, principais serviços da AWS, conceitos de segurança, arquitetura básica e modelos de precificação. Ideal para quem deseja iniciar na área de cloud computing.",
+      "language": "Inglês",
+      "category": "Cloud"
+    }
+  ]
+  
